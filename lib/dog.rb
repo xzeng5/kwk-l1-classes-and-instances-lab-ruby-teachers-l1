@@ -1,12 +1,12 @@
 # dog.rb
 class Dog
 
-  def initialize(fido)
-    @fido = fido
+  def initialize(dog)
+    @dog = dog
   end
 
-  def fido
-    puts @fido
+  def dog
+    @dog
   end
 
 end
