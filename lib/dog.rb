@@ -1,7 +1,7 @@
 # dog.rb
 class Dog
 
-  def initalize (fido)
+  def initialize (fido)
     @fido = fido
   end
 
