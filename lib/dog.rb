@@ -2,7 +2,7 @@
 class Dog
 
   def initalize (name)
-    @fido = name
+    @name = name
   end
 
 
