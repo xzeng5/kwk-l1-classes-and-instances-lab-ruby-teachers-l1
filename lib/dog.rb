@@ -6,7 +6,7 @@ class Dog
   end
 
   def fido
-    @fido
+    puts @fido
   end
 
 end
